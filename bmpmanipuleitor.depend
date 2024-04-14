@@ -48,3 +48,22 @@
 
 1712681759 c:\users\asus\desktop\bmpmanipuleitor\constantes.h
 
+1712789517 source:c:\franco\00 - proyectos\bmpmanipulator\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1713105183 c:\franco\00 - proyectos\bmpmanipulator\funciones_estudiante.h
+	"estructuras.h"
+
+1713019734 c:\franco\00 - proyectos\bmpmanipulator\estructuras.h
+
+1712681759 c:\franco\00 - proyectos\bmpmanipulator\constantes.h
+
+1713122956 source:c:\franco\00 - proyectos\bmpmanipulator\funciones_estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+	"funciones_estudiante.h"
+	"constantes.h"
+
